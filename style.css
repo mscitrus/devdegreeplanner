@@ -66,3 +66,7 @@ nav {
 .semchk {
     text-align:center;
 }
+
+input[type="checkbox"] {
+    margin: 0 auto;
+}
