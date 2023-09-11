@@ -25,7 +25,7 @@ nav {
     background-color:lightgray;
 }
 
-.tab .tabactive {
+.tabactive {
     font-weight:bold;
     background-color:var(--contentbg);
     padding-top: 10px;
@@ -47,6 +47,7 @@ nav {
 
 #courselistguide {
     text-align:center;
+    text-decoration: none;
 }
 
 .academicyr {
