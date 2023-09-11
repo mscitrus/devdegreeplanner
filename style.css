@@ -28,7 +28,7 @@ nav {
 .tabactive {
     font-weight:bold;
     background-color:var(--contentbg);
-    padding-top: 10px;
+    border-top: 10px solid var(--contentbg);
 }
 
 #content {
