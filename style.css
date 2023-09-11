@@ -85,7 +85,7 @@ input[type="checkbox"] {
     margin: 0 auto;
 }
 
-.term {
+.terms {
     display:flex;
     flex-direction:row;
     flex-wrap:nowrap;
