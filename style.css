@@ -15,13 +15,28 @@ body {
 }
 
 nav {
-    font-size: 15px;
-    background-color:var(--contentbg);
     display:flex;
     width:100%;
 }
 
-#content {
+.tab {
+    font-size: 15px;
+    padding: 5px;
+    margin: 0 5px;
     background-color:var(--contentbg);
 }
 
+#content {
+    padding: 20px;
+    background-color:var(--contentbg);
+}
+
+#courselist {
+    padding: 2px;
+}
+
+.academicyr {
+    border-bottom: 2px solid rgb(194, 182, 182);
+    font-size: 20px;
+    padding: 5px;
+}
