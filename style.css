@@ -1,0 +1,23 @@
+:root {
+    --contentbg: white;
+    --bgcolor: rgb(49, 83, 49);
+}
+
+body {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    background-color:var(--bgcolor);
+}
+
+#wrapper {
+    width: 75%;
+}
+
+nav {
+    font-size: 15px;
+    background-color:var(--contentbg);
+}
+
+#content {
+    background-color:var(--contentbg);
+}
+
