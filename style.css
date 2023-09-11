@@ -33,10 +33,15 @@ nav {
 
 #courselist {
     padding: 2px;
+    width: 100%;
+}
+
+#courselist thead {
+    font-style: underline;
 }
 
 .academicyr {
     border-bottom: 2px solid rgb(194, 182, 182);
-    font-size: 20px;
-    padding: 5px;
+    font-size: 40px;
+    padding: 20px 5px;
 }
