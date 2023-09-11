@@ -21,9 +21,14 @@ nav {
 
 .tab {
     font-size: 15px;
-    padding: 5px;
-    margin: 0 5px;
+    padding: 5px 20px;
     background-color:var(--contentbg);
+}
+
+.tabactive {
+    color:white;
+    background-color:green;
+    font-weight:bold;
 }
 
 #content {
@@ -40,8 +45,13 @@ nav {
     text-decoration: underline;
 }
 
+#courselistguide {
+    text-align:center;
+}
+
 .academicyr {
     border-bottom: 2px solid rgb(194, 182, 182);
     font-size: 40px;
-    padding: 20px 5px;
+    padding: 10px 5px;
+    margin: 20px 0;
 }
