@@ -101,10 +101,12 @@ input[type="checkbox"] {
     flex-direction: column;
     gap:5px;
     list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 .schedcourse {
-    padding: 3px;
+    padding: 5px;
     background-color:lightgray;
     border-radius: 3px;
     align-items: stretch;
