@@ -84,3 +84,29 @@ nav {
 input[type="checkbox"] {
     margin: 0 auto;
 }
+
+.term {
+    display:flex;
+    flex-direction:row;
+    flex-wrap:nowrap;
+    gap:20px;
+}
+
+/*.term {
+    flex-grow:1;
+}
+*/
+
+.termsched {
+    flex-grow:1;
+    display:flex;
+    flex-direction: column;
+    gap:5px;
+}
+
+.schedcourse li {
+    padding: 3px;
+    background-color:lightgray;
+    border-radius: 3px;
+    align-items: stretch;
+}
