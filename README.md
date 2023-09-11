@@ -16,3 +16,4 @@ A tool that will take the course rotation of a program, its requirements, and pl
 - View by semester OR by courses.
 - Pop-up message/tooltips tutorial.
 - Hover over course with prereqs, it will highlight all prereqs required.
+- Compare plans by year or semester-by-semester.
