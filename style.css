@@ -22,13 +22,13 @@ nav {
 .tab {
     font-size: 15px;
     padding: 5px 20px;
-    background-color:var(--contentbg);
+    background-color:lightgray;
 }
 
-.tabactive {
-    color:white;
-    background-color:green;
+.tab .tabactive {
     font-weight:bold;
+    background-color:var(--contentbg);
+    padding-top: 10px;
 }
 
 #content {
