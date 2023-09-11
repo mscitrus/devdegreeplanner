@@ -28,7 +28,7 @@ nav {
     transition: all 0.5s ease-out;
 }
 
-tab:last-child {
+.tab:last-child {
     border-radius: 0 5px 0 0;
 }
 
