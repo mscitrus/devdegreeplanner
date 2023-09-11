@@ -30,7 +30,11 @@ nav {
 .tabactive {
     font-weight:bold;
     background-color:var(--contentbg);
-    border-top: 10px solid var(--contentbg);
+    border-top: 8px solid var(--contentbg);
+}
+
+.tab:hover {
+    border-top: 4px solid lightgrey;
 }
 
 #content {
@@ -57,4 +61,8 @@ nav {
     font-size: 40px;
     padding: 10px 5px;
     margin: 20px 0;
+}
+
+.semchk {
+    text-align:center;
 }
