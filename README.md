@@ -17,3 +17,4 @@ A tool that will take the course rotation of a program, its requirements, and pl
 - Pop-up message/tooltips tutorial.
 - Hover over course with prereqs, it will highlight all prereqs required.
 - Compare plans by year or semester-by-semester.
+- When add class with prereq that isn't in system, autocreate that class.
