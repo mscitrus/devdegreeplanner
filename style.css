@@ -37,7 +37,7 @@ nav {
 }
 
 #courselist thead {
-    font-style: underline;
+    text-decoration: underline;
 }
 
 .academicyr {
